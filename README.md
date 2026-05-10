@@ -20,10 +20,10 @@ https://job-recommendation-system-madhu.streamlit.app/
 
 This project helps users:
 
-✅ Find relevant jobs based on skills
-✅ Get personalized recommendations
-✅ Explore companies and job locations
-✅ View match scores
+✅ Find relevant jobs based on skills  
+✅ Get personalized recommendations  
+✅ Explore companies and job locations  
+✅ View match scores  
 ✅ Access direct application links
 
 The system compares user skills with thousands of job descriptions and recommends the most similar jobs.
