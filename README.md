@@ -204,13 +204,13 @@ streamlit run app.py
 ---
 
 # 🖥 Application Screenshots
-
+## Home Page
 ![Home Page](screenshots/home_page.png)
-
+## Enter skills
 ![Entering skills](screenshots/enter_skills.png)
-
+## filter process
 ![filters](screenshots/filters.png)
-
+## Final Result
 ![Rsults](screenshots/recommendation_results.png)
 
 ```
@@ -261,7 +261,7 @@ LinkedIn:
 www.linkedin.com/in/madhukarjeedi
 
 GitHub:
-Add your GitHub profile here
+https://github.com/MadhukarJeedi
 
 ---
 
