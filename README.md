@@ -159,6 +159,12 @@ AI-Job-Recommendation-System/
 ├── requirements.txt
 ├── README.md
 └── train.py
+│
+└── screenshots/
+    ├── home_page.png
+    ├── enter_skills.png
+    ├── filters.png
+    └── results.png
 ```
 
 ---
@@ -199,14 +205,14 @@ streamlit run app.py
 
 # 🖥 Application Screenshots
 
-Add screenshots here.
+![Home Page](screenshots/home_page.png)
 
-Example:
+![Entering skills](screenshots/enter_skills.png)
 
-```text
-Home Page
-Recommendation Results
-Sidebar Filters
+![filters](screenshots/filters.png)
+
+![Rsults](screenshots/recommendation_results.png)
+
 ```
 
 ---
