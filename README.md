@@ -8,10 +8,7 @@ This project uses TF-IDF Vectorization and Cosine Similarity to analyze job desc
 
 # 🚀 Live Demo
 
-Check it link here:
-
-```text
-https://job-recommendation-system-madhu.streamlit.app/
+🔗 **Application:** https://job-recommendation-system-madhu.streamlit.app/
 ```
 
 ---
